@@ -3,7 +3,7 @@
 Jan Aquino here. I am an undergraduate student from De La Salle University, taking a Bachelor of Science in Computer Science Major in Software Technology degree.
 
 Watch out for whatever I upload here!
-
+<!--
 **JanAquinoDLSU/JanAquinoDLSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
